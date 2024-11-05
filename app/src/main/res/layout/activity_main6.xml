@@ -274,4 +274,13 @@
         app:layout_constraintTop_toTopOf="parent"
         app:srcCompat="@drawable/share_icon_143700_1" />
 
+    <TextView
+        android:id="@+id/textView47"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="TextView"
+        tools:layout_editor_absoluteX="45dp"
+        tools:layout_editor_absoluteY="76dp"
+        android:background="@color/black"/>
+
 </androidx.constraintlayout.widget.ConstraintLayout>
