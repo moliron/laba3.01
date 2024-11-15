@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home_menu"
+        android:icon="@drawable/_643769_building_home_house_main_menu_start_113416_1__1_"
+        android:title="home"
+        tools:ignore="HardcodedText" />
+    <item android:title="recipe"
+        android:id="@+id/recipe_menu"
+        android:icon="@drawable/recipe_svgrepo_com_1"/>
+    <item android:title="profile"
+        android:id="@+id/profile_menu"
+         android:icon="@drawable/_092564_about_mobile_ui_profile_ui_user_website_114033_1"/>
+    <item android:title="like"
+        android:id="@+id/like_menu"
+       android:icon="@drawable/like_svgrepo_com_1"/>
+</menu>

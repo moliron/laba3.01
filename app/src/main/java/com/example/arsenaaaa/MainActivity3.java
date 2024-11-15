@@ -29,7 +29,7 @@ public class MainActivity3 extends AppCompatActivity {
     }
 
     public void Nav(View view){
-        Intent intent = new Intent(MainActivity3.this, MainActivity4.class);
+        Intent intent = new Intent(MainActivity3.this, MainActivity7.class);
         startActivity(intent);
     }
 }
